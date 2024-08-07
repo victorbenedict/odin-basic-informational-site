@@ -17,7 +17,7 @@
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate to the project directory and install dependencies: `npm install`
 3. Run the program: `npm start`.
-4. Open the `localhost:8000` in your browser.
+4. Open the `localhost:3000` in your browser.
 
 ## Acknowledgments
 
