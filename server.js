@@ -3,12 +3,12 @@ import fs from 'fs/promises';
 import url from 'url';
 import path from 'path';
 
-const PORT = 8080;
+const PORT = process.env.PORT || 3000;
 
 const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
 const server = http.createServer(async (req, res) => {
+  console.log('server host', req.headers.host);
   let filePath;
   try {
     const parsedUrl = url.parse(req.url, true);
