@@ -16,9 +16,8 @@
 
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate to the project directory and install dependencies: `npm install`
-3. Create an `.env` file in the project root directory and add the following line: `PORT=8000`.
-4. Run the program: `npm start`.
-5. Open the `localhost:8000` in your browser.
+3. Run the program: `npm start`.
+4. Open the `localhost:8000` in your browser.
 
 ## Acknowledgments
 
