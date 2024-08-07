@@ -5,7 +5,7 @@
 
 ### The Odin Project
 
-- This project is part of The Odin Project's course: [Project Basic Informational Site](https://www.theodinproject.com/lessons/nodejs-basic-informational-site).
+- This project is part of The Odin Project's NodeJS course: [Project Basic Informational Site](https://www.theodinproject.com/lessons/nodejs-basic-informational-site).
 - [The Odin Project](https://www.theodinproject.com/) is a free and open-source curriculum for learning web development.
 
 ### Dependencies
