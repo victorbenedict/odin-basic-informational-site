@@ -1,7 +1,6 @@
 # Basic Informational Site
 
 - A simple NodeJS web server.
-- [Live Preview](link)
 
 ### The Odin Project
 
