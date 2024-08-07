@@ -1,11 +1,11 @@
 # Basic Informational Site
 
-- A simple web server that serves multiple routes of HTML files from a NodeJS server.
+- A simple NodeJS web server.
 - [Live Preview](link)
 
 ### The Odin Project
 
-- This project is part of The Odin Project's NodeJS course: [Project Basic Informational Site](https://www.theodinproject.com/lessons/nodejs-basic-informational-site).
+- This project is part of The Odin Project's course: [Project Basic Informational Site](https://www.theodinproject.com/lessons/nodejs-basic-informational-site).
 - [The Odin Project](https://www.theodinproject.com/) is a free and open-source curriculum for learning web development.
 
 ### Dependencies
@@ -16,7 +16,7 @@
 
 1. Clone the repository: `git clone <repository-url>`
 2. Navigate to the project directory and install dependencies: `npm install`
-3. Create `.env` file in the project root directory and add the following line: `PORT=8000`.
+3. Create an `.env` file in the project root directory and add the following line: `PORT=8000`.
 4. Run the program: `npm start`.
 5. Open the `localhost:8000` in your browser.
 
